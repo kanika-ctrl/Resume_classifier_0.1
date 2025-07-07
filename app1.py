@@ -1,4 +1,4 @@
-# Version: 2.0 - Clean deployment without spaCy
+# Version: 3.0 - COMPLETE CLEANUP - spaCy completely removed - NumPy compatibility fixed
 import streamlit as st
 import pandas as pd
 import numpy as np

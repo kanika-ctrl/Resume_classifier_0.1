@@ -1,4 +1,4 @@
-# Version: 2.0 - spaCy removed for deployment compatibility
+# Version: 3.0 - COMPLETE CLEANUP - spaCy completely removed - NumPy compatibility fixed
 import pandas as pd
 import numpy as np
 import re
