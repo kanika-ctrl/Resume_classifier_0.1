@@ -1,3 +1,4 @@
+# Version: 2.0 - Clean deployment without spaCy
 import streamlit as st
 import pandas as pd
 import numpy as np
