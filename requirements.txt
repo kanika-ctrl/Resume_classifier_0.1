@@ -6,7 +6,3 @@ scikit-learn
 nltk
 spacy
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
-venv\Scripts\activate
-pip install --upgrade pip setuptools wheel
-pip install -r Resume_classifier_0.1/requirements.txt
-python -m spacy download en_core_web_sm

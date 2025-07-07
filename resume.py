@@ -20,7 +20,7 @@ lemmatizer = nltk.stem.WordNetLemmatizer()
 nlp = spacy.load("en_core_web_sm")
 
 # Read dataset
-df = pd.read_csv(r"C:\Users\91720\OneDrive\Desktop\jupyter porjects\Resume_classifier_0.1\archive (3)\UpdatedResumeDataSet.csv")
+df = pd.read_csv("archive (3)/UpdatedResumeDataSet.csv")
 df.dropna(inplace=True)
 
 # Text cleaning
